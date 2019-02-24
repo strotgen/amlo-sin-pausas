@@ -1,5 +1,10 @@
 # AMLO sin pausas
 
+<p align="center">
+![alt text](amlo.png "Logo Title Text 1")
+</p>
+
+
 Independientemente de tu afiliación política, si en algo podemos concordar todos, 
 es en que Andrés Manuel López Obrador (AMLO), presidente electo de México, hace muchas pausas al hablar, en ocasiones excesivas.
  Por esta razón nace _AMLO sin pausas_, un script hecho en Python que quita todas las pausas del presidente al hablar.
