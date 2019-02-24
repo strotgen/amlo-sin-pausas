@@ -1,8 +1,6 @@
 # AMLO sin pausas
 
-<p align="center">
-![alt text](amlo.png "Logo Title Text 1")
-</p>
+![alt text](https://github.com/strotgen/amlo-sin-pausas/raw/master/amlo.png "Logo Title Text 1")
 
 
 Independientemente de tu afiliación política, si en algo podemos concordar todos, 
